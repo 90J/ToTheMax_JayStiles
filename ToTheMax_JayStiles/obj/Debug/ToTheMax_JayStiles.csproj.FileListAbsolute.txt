@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\ToTheMax_JayStiles\ToTheMax_JayStiles\obj\Debug\ToTheMax_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\ToTheMax_JayStiles\ToTheMax_JayStiles\obj\Debug\ToTheMax_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\ToTheMax_JayStiles\ToTheMax_JayStiles\bin\Debug\ToTheMax_JayStiles.exe.config
+C:\Users\jstiles\source\repos\ToTheMax_JayStiles\ToTheMax_JayStiles\bin\Debug\ToTheMax_JayStiles.exe
+C:\Users\jstiles\source\repos\ToTheMax_JayStiles\ToTheMax_JayStiles\bin\Debug\ToTheMax_JayStiles.pdb
+C:\Users\jstiles\source\repos\ToTheMax_JayStiles\ToTheMax_JayStiles\obj\Debug\ToTheMax_JayStiles.exe
+C:\Users\jstiles\source\repos\ToTheMax_JayStiles\ToTheMax_JayStiles\obj\Debug\ToTheMax_JayStiles.pdb
